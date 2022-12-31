@@ -1,7 +1,8 @@
 JavaScript Password Generator
 
 Deployed URL
-"https://cobayomi.github.io/Java-password
+
+https://cobayomi.github.io/Java-password
 
 Description
 A password generator that asks users for input for a combination of uppercase/lowercase/numbers, and special characters in order to generate an 8-128 character randomized password.
