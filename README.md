@@ -7,11 +7,21 @@ https://cobayomi.github.io/Java-password
 Description
 A password generator that asks users for input for a combination of uppercase/lowercase/numbers, and special characters in order to generate an 8-128 character randomized password.
 
+
+
 Technologies Uses
+
+
 HTML
+
 CSS
+
 JavaScript
+
+
 User Story
+
+
 AS AN employee with access to sensitive data
 I WANT to randomly generate a password that meets certain criteria
 SO THAT I can create a strong password that provides greater security
